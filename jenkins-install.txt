@@ -7,3 +7,13 @@ brew services restart jenkins-lts
 
 
 http://localhost:8080
+
+
+
+
+
+
+$HOME/.jenkins/config.xml
+
+
+<useSecurity>true</useSecurity>
